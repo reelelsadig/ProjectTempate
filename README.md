@@ -14,6 +14,8 @@ The dataset used in this project was obtained from Kaggle and consists of struct
 #### Preprocessing / Clean up
 Several preprocessing steps were performed to prepare the data for modeling. First, irrelevant columns such as identification numbers and hospital-related fields were removed since they do not contribute to prediction. Missing values were handled appropriately, and categorical variables were converted into numerical format using one-hot encoding. Additionally, feature scaling was applied using standardization to ensure all variables are on a similar scale, which improves model performance.
 #### Data Visualization
+<img width="567" height="435" alt="download" src="https://github.com/user-attachments/assets/a2a23a7c-0200-42dc-88f2-494f897930d5" />
+<img width="498" height="455" alt="download" src="https://github.com/user-attachments/assets/1fdad172-bd61-491c-b2c4-1fda2d03243d" />
 
 Basic visualizations were used to explore the dataset, including distributions of features and class balance. These helped identify patterns and potential imbalances in the data.
 ### Problem Formulation
